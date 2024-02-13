@@ -1,0 +1,3 @@
+package demo;
+
+@license(LGPL);
